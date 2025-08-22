@@ -1,6 +1,6 @@
 # Idena Wallet Balance Timeline
 
-Build a human-readable balance timeline for any Idena address.
+Build a human-readable balance timeline for any Idena address. Caution: it doesnt recognize mining rewards! Only useful for cold wallets, exchanges.
 
 - Pages the list endpoint with `continuationToken`
 - Resolves each transaction to get reliable `blockHeight` and `timestamp`
