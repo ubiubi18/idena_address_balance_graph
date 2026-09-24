@@ -1,5 +1,9 @@
 # Idena Wallet Balance Timeline
 
+## Research disclaimer
+
+This is experimental research software. I cannot guarantee its security, correctness, or fitness for any purpose. Use it at your own risk, take responsibility for your decisions, independently verify changes, and stay vigilant.
+
 Build a human-readable balance timeline for any Idena address. Caution: it doesnt recognize mining rewards! Only useful for cold wallets, exchanges.
 
 - Pages the list endpoint with `continuationToken`
